@@ -1,0 +1,35 @@
+{
+	"about": {
+		"template": "TMS_quotes",
+		"dateGenerated": "2014/08/12 10:09:37",
+		"logname": "null",
+		"templateKeyCount": "10",
+		"libraryKeyCount": "10",
+		"redundantKeyCount": "0",
+		"compression": "0%"
+	}, 
+	"templateKeys": [
+		{"_id": "T0001", "key": "tmstest__key01.text"},
+		{"_id": "T0002", "key": "tmstest__key02.text"},
+		{"_id": "T0003", "key": "tmstest__key03.text"},
+		{"_id": "T0004", "key": "tmstest__key04.text"},
+		{"_id": "T0005", "key": "tmstest__key05.text"},
+		{"_id": "T0006", "key": "tmstest__key06.text"},
+		{"_id": "T0007", "key": "tmstest__key07.text"},
+		{"_id": "T0008", "key": "tmstest__key08.text"},
+		{"_id": "T0009", "key": "tmstest__key09.text"},
+		{"_id": "T0010", "key": "tmstest__key10.text"}
+	], 
+	"libraryKeys": [
+		{ "_id": "tmstest__key01.text" },
+		{ "_id": "tmstest__key02.text" },
+		{ "_id": "tmstest__key03.text" },
+		{ "_id": "tmstest__key04.text" },
+		{ "_id": "tmstest__key05.text" },
+		{ "_id": "tmstest__key06.text" },
+		{ "_id": "tmstest__key07.text" },
+		{ "_id": "tmstest__key08.text" },
+		{ "_id": "tmstest__key09.text" },
+		{ "_id": "tmstest__key10.text" }
+	]
+}
