@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_memorial",
-		"dateGenerated": "2014/08/20 22:37:41",
+		"dateGenerated": "2014/08/22 10:24:10",
 		"logname": "null",
 		"templateKeyCount": "31",
 		"libraryKeyCount": "24",
@@ -67,5 +67,5 @@
 		{ "_id": "titles__Kontakion", "ids": ["18"] },
 		{ "_id": "tr.d014__trMA.Kontakion.text", "ids": ["20"] }
 	], 
-	"topics": ["eu.memorial", "eu.funeral", "misc", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "prayers", "ho.s03", "prayers", "ho.s03", "prayers", "rubrical", "titles", "misc", "tr.d014", "misc", "oc.m4.d7", "oc.m4.d7", "prayers", "eu.funeral", "prayers", "oc.m4.d5", "misc", "prayers", "rubrical"]
+	"topics": ["eu.funeral", "eu.memorial", "ho.s03", "misc", "oc.m4.d5", "oc.m4.d7", "prayers", "rubrical", "titles", "tr.d014"]
 }

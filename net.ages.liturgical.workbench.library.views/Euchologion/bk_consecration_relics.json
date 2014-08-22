@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_consecration_relics",
-		"dateGenerated": "2014/08/20 22:38:17",
+		"dateGenerated": "2014/08/22 10:24:51",
 		"logname": "null",
 		"templateKeyCount": "72",
 		"libraryKeyCount": "60",
@@ -144,5 +144,5 @@
 		{ "_id": "rubrical__Thrice", "ids": ["15"] },
 		{ "_id": "titles__Apolysis", "ids": ["50"] }
 	], 
-	"topics": ["eu.consecration", "eu.consecration", "actors", "eu.consecration", "eu.consecration", "prayers", "eu.consecration", "eu.consecration", "prayers", "eu.consecration", "actors", "prayers", "prayers", "actors", "prayers", "rubrical", "prayers", "prayers", "prayers", "prayers", "prayers", "prayers", "prayers", "actors", "prayers", "prayers", "actors", "eu.consecration", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "client", "misc", "prayers", "eu.consecration", "misc", "prayers", "oc.m6.d5", "titles", "actors", "prayers", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "client", "client", "client", "client", "dismissals", "dismissals", "dismissals", "prayers", "actors", "prayers"]
+	"topics": ["actors", "client", "dismissals", "eu.consecration", "misc", "oc.m6.d5", "prayers", "rubrical", "titles"]
 }
