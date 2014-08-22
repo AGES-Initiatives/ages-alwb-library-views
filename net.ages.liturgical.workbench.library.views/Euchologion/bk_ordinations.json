@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_ordinations",
-		"dateGenerated": "2014/08/20 22:37:33",
+		"dateGenerated": "2014/08/22 10:23:58",
 		"logname": "null",
 		"templateKeyCount": "119",
 		"libraryKeyCount": "112",
@@ -243,5 +243,5 @@
 		{ "_id": "eu.ordination__euOR.R702", "ids": ["115"] },
 		{ "_id": "eu.ordination__euOR.R801", "ids": ["117"] }
 	], 
-	"topics": ["eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination", "eu.ordination"]
+	"topics": ["eu.ordination"]
 }

@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_funeral",
-		"dateGenerated": "2014/08/20 22:37:55",
+		"dateGenerated": "2014/08/22 10:24:23",
 		"logname": "null",
 		"templateKeyCount": "215",
 		"libraryKeyCount": "135",
@@ -362,5 +362,5 @@
 		{ "_id": "titles__ToTheionEvangelion", "ids": ["152"] },
 		{ "_id": "tr.d014__trMA.Kontakion.text", "ids": ["92"] }
 	], 
-	"topics": ["eu.funeral", "actors", "prayers", "actors", "prayers", "eu.funeral", "misc", "eu.funeral", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "titles", "prayers", "prayers", "titles", "actors", "prayers", "prayers", "prayers", "prayers", "prayers", "prayers", "actors", "eu.funeral", "prayers", "actors", "eu.funeral", "misc", "eu.funeral", "ps", "eu.funeral", "ps", "eu.funeral", "ps", "eu.funeral", "ps", "eu.funeral", "ps", "eu.funeral", "ps", "eu.funeral", "prayers", "prayers", "eu.funeral", "actors", "prayers", "prayers", "actors", "eu.funeral", "prayers", "actors", "eu.funeral", "misc", "eu.funeral", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "titles", "ps", "ps", "eu.funeral", "misc", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "ho.s03", "prayers", "ho.s03", "prayers", "ho.s03", "prayers", "titles", "misc", "tr.d014", "eu.funeral", "poets", "misc", "oc.m1.d7", "misc", "oc.m2.d7", "titles", "misc", "oc.m2.d7", "misc", "oc.m3.d7", "misc", "he.a.m4", "oc.m4.d7", "titles", "misc", "oc.m4.d7", "misc", "oc.m5.d7", "misc", "oc.m6.d7", "misc", "he.a.m7", "oc.m7.d7", "titles", "misc", "oc.m7.d7", "misc", "oc.m8.d7", "prayers", "misc", "oc.m8.d7", "prayers", "misc", "oc.m8.d7", "titles", "misc", "eu.funeral", "titles", "actors", "prayers", "actors", "misc", "ps", "actors", "prayers", "actors", "prayers", "bible", "prayers", "actors", "prayers", "actors", "le.ep.va.funeral", "le.ep.va.funeral", "actors", "prayers", "actors", "prayers", "titles", "actors", "prayers", "prayers", "prayers", "actors", "prayers", "prayers", "actors", "prayers", "bible", "prayers", "actors", "prayers", "prayers", "actors", "le.go.va.deceased", "le.go.va.deceased", "actors", "prayers", "actors", "prayers", "actors", "prayers", "prayers", "prayers", "prayers", "prayers", "prayers", "actors", "eu.funeral", "eu.funeral", "prayers", "actors", "prayers", "dismissals", "dismissals", "dismissals", "dismissals", "dismissals", "eu.funeral", "eu.funeral", "dismissals", "eu.funeral", "eu.funeral", "rubrical", "actors", "prayers", "actors", "misc", "he.a.m2", "eu.funeral", "eu.funeral", "prayers", "titles", "eu.funeral", "actors", "ps", "ps", "le.pr.os", "eu.funeral", "prayers", "prayers"]
+	"topics": ["actors", "bible", "dismissals", "eu.funeral", "he.a.m2", "he.a.m4", "he.a.m7", "ho.s03", "le.ep.va.funeral", "le.go.va.deceased", "le.pr.os", "misc", "oc.m1.d7", "oc.m2.d7", "oc.m3.d7", "oc.m4.d7", "oc.m5.d7", "oc.m6.d7", "oc.m7.d7", "oc.m8.d7", "poets", "prayers", "ps", "rubrical", "titles", "tr.d014"]
 }

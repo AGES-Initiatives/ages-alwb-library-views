@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_ap_me_m04",
-		"dateGenerated": "2014/08/20 22:28:06",
+		"dateGenerated": "2014/08/22 10:14:55",
 		"logname": "null",
 		"templateKeyCount": "106",
 		"libraryKeyCount": "61",
@@ -179,5 +179,5 @@
 		{ "_id": "titles__Allilouia", "ids": ["13", "32", "51", "71", "99"] },
 		{ "_id": "titles__Prokeimenon", "ids": ["2", "21", "40", "60", "88"] }
 	], 
-	"topics": ["me.m04.d01", "me.m04.d01", "titles", "misc", "ps", "ps", "misc", "ps", "prayers", "bible", "prayers", "le.ep.mc.d222", "le.ep.mc.d222", "titles", "misc", "misc", "ps", "misc", "ps", "me.m04.d10", "me.m04.d10", "titles", "misc", "ps", "ps", "misc", "ps", "prayers", "bible", "prayers", "le.ep.me.m11.d13", "le.ep.me.m11.d13", "titles", "misc", "misc", "ps", "misc", "ps", "me.m04.d23", "me.m04.d23", "titles", "misc", "ps", "ps", "misc", "ps", "prayers", "bible", "prayers", "le.ep.mc.d098", "le.ep.mc.d098", "titles", "misc", "ps", "misc", "ps", "misc", "ps", "me.m04.d25", "me.m04.d25", "titles", "misc", "ps", "ps", "misc", "ps", "prayers", "bible", "prayers", "le.ep.me.m04.d25", "le.ep.me.m04.d25", "titles", "misc", "ps", "misc", "ps", "misc", "ps", "me.m04.d29", "me.m04.d29", "da.d0", "prayers", "bible", "prayers", "le.ep.mc.d190", "le.ep.mc.d190", "me.m04.d30", "me.m04.d30", "titles", "misc", "ps", "ps", "misc", "ps", "prayers", "bible", "prayers", "le.ep.mc.d098", "le.ep.mc.d098", "titles", "misc", "ps", "misc", "ps", "misc", "ps"]
+	"topics": ["bible", "da.d0", "le.ep.mc.d098", "le.ep.mc.d190", "le.ep.mc.d222", "le.ep.me.m04.d25", "le.ep.me.m11.d13", "me.m04.d01", "me.m04.d10", "me.m04.d23", "me.m04.d25", "me.m04.d29", "me.m04.d30", "misc", "prayers", "ps", "titles"]
 }
