@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_churchdooropening",
-		"dateGenerated": "2014/08/22 10:25:35",
+		"dateGenerated": "2014/08/23 10:59:24",
 		"logname": "null",
 		"templateKeyCount": "200",
 		"libraryKeyCount": "137",
@@ -99,7 +99,7 @@
 		{"_id": "T0088", "key": "le.go.me.m06.d29__lemeLI.Gospel.text"},
 		{"_id": "T0089", "key": "prayers__DoxaSoiKyrieP"},
 		{"_id": "T0090", "key": "actors__Deacon"},
-		{"_id": "T0091", "key": "prayers__pet00"},
+		{"_id": "T0091", "key": "prayers__pet01"},
 		{"_id": "T0092", "key": "prayers__res01p"},
 		{"_id": "T0093", "key": "prayers__pet02"},
 		{"_id": "T0094", "key": "prayers__res01p"},
@@ -200,8 +200,8 @@
 		{"_id": "T0189", "key": "dismissals__dis08"},
 		{"_id": "T0190", "key": "client__cl.localpatronsaint1.dismissal"},
 		{"_id": "T0191", "key": "dismissals__dis09"},
-		{"_id": "T0192", "key": "me.m08.d22__meInsert1"},
-		{"_id": "T0193", "key": "me.m08.d22__meInsert2"},
+		{"_id": "T0192", "key": "me.m08.d23__meInsert1"},
+		{"_id": "T0193", "key": "me.m08.d23__meInsert2"},
 		{"_id": "T0194", "key": "dismissals__dis10"},
 		{"_id": "T0195", "key": "dismissals__dis89"},
 		{"_id": "T0196", "key": "prayers__DiEfchonPateron.text"},
@@ -265,8 +265,8 @@
 		{ "_id": "le.ep.me.m11.d21__lemeLI.Epistle.text", "ids": ["65"] },
 		{ "_id": "le.go.me.m06.d29__lemeLI.Gospel.chapverse", "ids": ["86"] },
 		{ "_id": "le.go.me.m06.d29__lemeLI.Gospel.text", "ids": ["87"] },
-		{ "_id": "me.m08.d22__meInsert1", "ids": ["191"] },
-		{ "_id": "me.m08.d22__meInsert2", "ids": ["192"] },
+		{ "_id": "me.m08.d23__meInsert1", "ids": ["191"] },
+		{ "_id": "me.m08.d23__meInsert2", "ids": ["192"] },
 		{ "_id": "me.m09.d13__meMA.Kontakion1.text", "ids": ["161"] },
 		{ "_id": "me.m09.d14__meVE.Apolytikion1.text", "ids": ["138"] },
 		{ "_id": "misc__Mode1", "ids": ["137"] },
@@ -299,8 +299,8 @@
 		{ "_id": "prayers__gos02", "ids": ["74"] },
 		{ "_id": "prayers__gos03a", "ids": ["79"] },
 		{ "_id": "prayers__gos03b", "ids": ["81"] },
-		{ "_id": "prayers__pet00", "ids": ["90", "168"] },
-		{ "_id": "prayers__pet01", "ids": ["127"] },
+		{ "_id": "prayers__pet00", "ids": ["168"] },
+		{ "_id": "prayers__pet01", "ids": ["90", "127"] },
 		{ "_id": "prayers__pet02", "ids": ["92"] },
 		{ "_id": "prayers__pet03", "ids": ["94"] },
 		{ "_id": "prayers__pet06a", "ids": ["96"] },
@@ -349,5 +349,5 @@
 		{ "_id": "titles__ToEvangelion", "ids": ["70"] },
 		{ "_id": "titles__TonEnkainion", "ids": ["158"] }
 	], 
-	"topics": ["actors", "bible", "client", "dismissals", "eu.churchdooropening", "eu.lichrysbasil", "eu.smallwaterblessing", "he.a.m4", "ho.s03", "ho.s07", "le.ep.me.m11.d21", "le.go.me.m06.d29", "me.m08.d22", "me.m09.d13", "me.m09.d14", "misc", "pe.d120", "prayers", "ps", "rubrical", "titles"]
+	"topics": ["actors", "bible", "client", "dismissals", "eu.churchdooropening", "eu.lichrysbasil", "eu.smallwaterblessing", "he.a.m4", "ho.s03", "ho.s07", "le.ep.me.m11.d21", "le.go.me.m06.d29", "me.m08.d23", "me.m09.d13", "me.m09.d14", "misc", "pe.d120", "prayers", "ps", "rubrical", "titles"]
 }
