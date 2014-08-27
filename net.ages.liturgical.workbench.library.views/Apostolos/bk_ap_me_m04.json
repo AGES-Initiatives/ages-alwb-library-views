@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_ap_me_m04",
-		"dateGenerated": "2014/08/22 10:14:55",
+		"dateGenerated": "2014/08/26 21:24:11",
 		"logname": "null",
 		"templateKeyCount": "106",
 		"libraryKeyCount": "61",
@@ -89,7 +89,7 @@
 		{"_id": "T0078", "key": "ps__psa88.v8.text"},
 		{"_id": "T0079", "key": "me.m04.d29__meDate.text"},
 		{"_id": "T0080", "key": "me.m04.d29__meCommemoration.text"},
-		{"_id": "T0081", "key": "da.d0__da.R003"},
+		{"_id": "T0081", "key": "lectionaries__lecAP.R03"},
 		{"_id": "T0082", "key": "prayers__epi01a"},
 		{"_id": "T0083", "key": "bible__Corinthians1"},
 		{"_id": "T0084", "key": "prayers__epi01b"},
@@ -122,7 +122,6 @@
 		{ "_id": "bible__Galatians", "ids": ["9"] },
 		{ "_id": "bible__Hebrews", "ids": ["28"] },
 		{ "_id": "bible__Peter1", "ids": ["67"] },
-		{ "_id": "da.d0__da.R003", "ids": ["80"] },
 		{ "_id": "le.ep.mc.d098__lemcLI.Epistle.chapverse", "ids": ["49", "97"] },
 		{ "_id": "le.ep.mc.d098__lemcLI.Epistle.text", "ids": ["50", "98"] },
 		{ "_id": "le.ep.mc.d190__lemcLI.Epistle.chapverse", "ids": ["84"] },
@@ -133,6 +132,7 @@
 		{ "_id": "le.ep.me.m04.d25__lemeLI.Epistle.text", "ids": ["70"] },
 		{ "_id": "le.ep.me.m11.d13__lemeLI.Epistle.chapverse", "ids": ["30"] },
 		{ "_id": "le.ep.me.m11.d13__lemeLI.Epistle.text", "ids": ["31"] },
+		{ "_id": "lectionaries__lecAP.R03", "ids": ["80"] },
 		{ "_id": "me.m04.d01__meCommemoration.text", "ids": ["1"] },
 		{ "_id": "me.m04.d01__meDate.text", "ids": ["0"] },
 		{ "_id": "me.m04.d10__meCommemoration.text", "ids": ["20"] },
@@ -179,5 +179,5 @@
 		{ "_id": "titles__Allilouia", "ids": ["13", "32", "51", "71", "99"] },
 		{ "_id": "titles__Prokeimenon", "ids": ["2", "21", "40", "60", "88"] }
 	], 
-	"topics": ["bible", "da.d0", "le.ep.mc.d098", "le.ep.mc.d190", "le.ep.mc.d222", "le.ep.me.m04.d25", "le.ep.me.m11.d13", "me.m04.d01", "me.m04.d10", "me.m04.d23", "me.m04.d25", "me.m04.d29", "me.m04.d30", "misc", "prayers", "ps", "titles"]
+	"topics": ["bible", "le.ep.mc.d098", "le.ep.mc.d190", "le.ep.mc.d222", "le.ep.me.m04.d25", "le.ep.me.m11.d13", "lectionaries", "me.m04.d01", "me.m04.d10", "me.m04.d23", "me.m04.d25", "me.m04.d29", "me.m04.d30", "misc", "prayers", "ps", "titles"]
 }
