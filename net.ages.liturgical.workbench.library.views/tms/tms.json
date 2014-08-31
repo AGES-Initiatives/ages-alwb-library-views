@@ -47,15 +47,14 @@
 		{"_id": "T0036", "key": "labels__view.messages.updated"},
 		{"_id": "T0037", "key": "labels__panel.about"},
 		{"_id": "T0038", "key": "labels__panel.preferences"},
-		{"_id": "T0039", "key": "labels__panel.preferences.file"},
+		{"_id": "T0039", "key": "labels__view.preferences.user.language.file"},
 		{"_id": "T0040", "key": "labels__preferences.messages.preferences.not.set"},
 		{"_id": "T0041", "key": "labels__view.messages.loaded.data"},
-		{"_id": "T0042", "key": "labels__view.messages.updated"},
+		{"_id": "T0042", "key": "labels__view.messages.ampersand"},
 		{"_id": "T0043", "key": "labels__view.messages.how.to.edit"},
 		{"_id": "T0044", "key": "labels__view.messages.keys.not.editable"},
 		{"_id": "T0045", "key": "labels__view.messages.unavailable.views"},
-		{"_id": "T0046", "key": "labels__view.messages.unavailable.domains"},
-		{"_id": "T0047", "key": "labels__view.preferences.file"}
+		{"_id": "T0046", "key": "labels__view.messages.unavailable.domains"}
 	], 
 	"libraryKeys": [
 		{ "_id": "labels__main.panel.title", "ids": ["1"] },
