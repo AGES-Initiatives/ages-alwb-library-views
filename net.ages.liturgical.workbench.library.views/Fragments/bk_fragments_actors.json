@@ -1,0 +1,46 @@
+{
+	"about": {
+		"template": "bk_fragments_actors",
+		"dateGenerated": "2014/08/31 00:20:56",
+		"logname": "null",
+		"templateKeyCount": "15",
+		"libraryKeyCount": "15",
+		"redundantKeyCount": "0",
+		"compression": "0%"
+	}, 
+	"templateKeys": [
+		{"_id": "T0001", "key": "actors__Candidate_Sponsor"},
+		{"_id": "T0002", "key": "actors__Chanter"},
+		{"_id": "T0003", "key": "actors__ChanterOrReader"},
+		{"_id": "T0004", "key": "actors__Choir"},
+		{"_id": "T0005", "key": "actors__ChoirL"},
+		{"_id": "T0006", "key": "actors__ChoirR"},
+		{"_id": "T0007", "key": "actors__Clergy"},
+		{"_id": "T0008", "key": "actors__ClergyAndPeople"},
+		{"_id": "T0009", "key": "actors__Deacon"},
+		{"_id": "T0010", "key": "actors__Hierarch"},
+		{"_id": "T0011", "key": "actors__HierarchOrPriest"},
+		{"_id": "T0012", "key": "actors__People"},
+		{"_id": "T0013", "key": "actors__Priest"},
+		{"_id": "T0014", "key": "actors__PriestOrDeacon"},
+		{"_id": "T0015", "key": "actors__Reader"}
+	], 
+	"libraryKeys": [
+		{ "_id": "actors__Candidate_Sponsor", "ids": ["0"] },
+		{ "_id": "actors__Chanter", "ids": ["1"] },
+		{ "_id": "actors__ChanterOrReader", "ids": ["2"] },
+		{ "_id": "actors__Choir", "ids": ["3"] },
+		{ "_id": "actors__ChoirL", "ids": ["4"] },
+		{ "_id": "actors__ChoirR", "ids": ["5"] },
+		{ "_id": "actors__Clergy", "ids": ["6"] },
+		{ "_id": "actors__ClergyAndPeople", "ids": ["7"] },
+		{ "_id": "actors__Deacon", "ids": ["8"] },
+		{ "_id": "actors__Hierarch", "ids": ["9"] },
+		{ "_id": "actors__HierarchOrPriest", "ids": ["10"] },
+		{ "_id": "actors__People", "ids": ["11"] },
+		{ "_id": "actors__Priest", "ids": ["12"] },
+		{ "_id": "actors__PriestOrDeacon", "ids": ["13"] },
+		{ "_id": "actors__Reader", "ids": ["14"] }
+	], 
+	"topics": ["actors"]
+}
