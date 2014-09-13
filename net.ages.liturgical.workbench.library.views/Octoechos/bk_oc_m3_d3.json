@@ -1,12 +1,12 @@
 {
 	"about": {
 		"template": "bk_oc_m3_d3",
-		"dateGenerated": "2014/09/12 16:02:19",
+		"dateGenerated": "2014/09/13 11:34:55",
 		"logname": "null",
-		"templateKeyCount": "438",
-		"libraryKeyCount": "171",
+		"templateKeyCount": "437",
+		"libraryKeyCount": "170",
 		"redundantKeyCount": "267",
-		"compression": "60%"
+		"compression": "61%"
 	}, 
 	"templateKeys": [
 		{"_id": "T0001", "key": "misc__Mode3"},
@@ -435,18 +435,17 @@
 		{"_id": "T0424", "key": "misc__Mode3"},
 		{"_id": "T0425", "key": "oc.m3.d3__octrMA.Kathisma11.melody"},
 		{"_id": "T0426", "key": "oc.m3.d2__ocMA.Kathisma11.text"},
-		{"_id": "T0427", "key": "oc.m3.d3__octrMA.Kathisma12Verse.text"},
-		{"_id": "T0428", "key": "misc__Mode3"},
-		{"_id": "T0429", "key": "oc.m3.d3__octrMA.Kathisma12.melody"},
-		{"_id": "T0430", "key": "oc.m3.d3__octrMA.Kathisma12.text"},
-		{"_id": "T0431", "key": "misc__Mode3"},
-		{"_id": "T0432", "key": "oc.m3.d3__octrMA.Kathisma1T.melody"},
-		{"_id": "T0433", "key": "oc.m3.d3__ocMA.Kathisma13.text"},
-		{"_id": "T0434", "key": "misc__Mode3"},
-		{"_id": "T0435", "key": "oc.m3.d3__octrMA.Ode7Martyricon.melody"},
-		{"_id": "T0436", "key": "oc.m3.d2__ocMA.Kathisma32.text"},
-		{"_id": "T0437", "key": "misc__Mode3"},
-		{"_id": "T0438", "key": "oc.m3.d2__octrMA.Photagogic.text"}
+		{"_id": "T0427", "key": "misc__Mode3"},
+		{"_id": "T0428", "key": "oc.m3.d3__octrMA.Kathisma12.melody"},
+		{"_id": "T0429", "key": "oc.m3.d3__octrMA.Kathisma12.text"},
+		{"_id": "T0430", "key": "misc__Mode3"},
+		{"_id": "T0431", "key": "oc.m3.d3__octrMA.Kathisma1T.melody"},
+		{"_id": "T0432", "key": "oc.m3.d3__ocMA.Kathisma13.text"},
+		{"_id": "T0433", "key": "misc__Mode3"},
+		{"_id": "T0434", "key": "oc.m3.d3__octrMA.Ode7Martyricon.melody"},
+		{"_id": "T0435", "key": "oc.m3.d2__ocMA.Kathisma32.text"},
+		{"_id": "T0436", "key": "misc__Mode3"},
+		{"_id": "T0437", "key": "oc.m3.d2__octrMA.Photagogic.text"}
 	], 
 	"libraryKeys": [
 		{ "_id": "he.a.m3__MegaliTonMartyronSou.text", "ids": ["29"] },
@@ -479,7 +478,7 @@
 		{ "_id": "he.h.m3__VythosMoiTonPathon.name", "ids": ["227", "230", "234", "238", "242", "246"] },
 		{ "_id": "misc__Automelon", "ids": ["25", "28"] },
 		{ "_id": "misc__Heirmos", "ids": ["66", "106", "146", "186", "226", "266", "306", "346"] },
-		{ "_id": "misc__Mode3", "ids": ["0", "3", "6", "9", "12", "15", "18", "21", "24", "27", "30", "33", "36", "39", "42", "45", "48", "51", "54", "57", "60", "64", "68", "72", "76", "80", "84", "88", "92", "96", "100", "104", "108", "112", "116", "120", "124", "128", "132", "136", "140", "144", "148", "152", "156", "160", "164", "168", "172", "176", "180", "184", "188", "192", "196", "200", "204", "208", "212", "216", "220", "224", "228", "232", "236", "240", "244", "248", "252", "256", "260", "264", "268", "272", "276", "280", "284", "288", "292", "296", "300", "304", "308", "312", "316", "320", "324", "328", "332", "336", "340", "344", "348", "352", "356", "360", "364", "368", "372", "376", "380", "384", "387", "390", "393", "396", "399", "402", "405", "408", "411", "414", "417", "419", "421", "423", "427", "430", "433", "436"] },
+		{ "_id": "misc__Mode3", "ids": ["0", "3", "6", "9", "12", "15", "18", "21", "24", "27", "30", "33", "36", "39", "42", "45", "48", "51", "54", "57", "60", "64", "68", "72", "76", "80", "84", "88", "92", "96", "100", "104", "108", "112", "116", "120", "124", "128", "132", "136", "140", "144", "148", "152", "156", "160", "164", "168", "172", "176", "180", "184", "188", "192", "196", "200", "204", "208", "212", "216", "220", "224", "228", "232", "236", "240", "244", "248", "252", "256", "260", "264", "268", "272", "276", "280", "284", "288", "292", "296", "300", "304", "308", "312", "316", "320", "324", "328", "332", "336", "340", "344", "348", "352", "356", "360", "364", "368", "372", "376", "380", "384", "387", "390", "393", "396", "399", "402", "405", "408", "411", "414", "417", "419", "421", "423", "426", "429", "432", "435"] },
 		{ "_id": "misc__Ode1", "ids": ["65", "69", "73", "77", "81", "85", "89", "93", "97", "101"] },
 		{ "_id": "misc__Ode3", "ids": ["105", "109", "113", "117", "121", "125", "129", "133", "137", "141"] },
 		{ "_id": "misc__Ode4", "ids": ["145", "149", "153", "157", "161", "165", "169", "173", "177", "181"] },
@@ -493,9 +492,9 @@
 		{ "_id": "oc.m3.d2__ocMA.Aposticha2.text", "ids": ["389"] },
 		{ "_id": "oc.m3.d2__ocMA.Kathisma11.text", "ids": ["38", "425"] },
 		{ "_id": "oc.m3.d2__ocMA.Kathisma12.text", "ids": ["41"] },
-		{ "_id": "oc.m3.d2__ocMA.Kathisma32.text", "ids": ["435"] },
+		{ "_id": "oc.m3.d2__ocMA.Kathisma32.text", "ids": ["434"] },
 		{ "_id": "oc.m3.d2__ocVE.Aposticha1.text", "ids": ["23"] },
-		{ "_id": "oc.m3.d2__octrMA.Photagogic.text", "ids": ["437"] },
+		{ "_id": "oc.m3.d2__octrMA.Photagogic.text", "ids": ["436"] },
 		{ "_id": "oc.m3.d2__octrMA.Triadic1.text", "ids": ["418"] },
 		{ "_id": "oc.m3.d2__octrMA.Triadic2.text", "ids": ["420"] },
 		{ "_id": "oc.m3.d2__octrMA.Triadic3.text", "ids": ["422"] },
@@ -521,7 +520,7 @@
 		{ "_id": "oc.m3.d3__ocMA.Kathisma11.melody", "ids": ["37"] },
 		{ "_id": "oc.m3.d3__ocMA.Kathisma12.melody", "ids": ["40"] },
 		{ "_id": "oc.m3.d3__ocMA.Kathisma13.melody", "ids": ["43"] },
-		{ "_id": "oc.m3.d3__ocMA.Kathisma13.text", "ids": ["35", "44", "432"] },
+		{ "_id": "oc.m3.d3__ocMA.Kathisma13.text", "ids": ["35", "44", "431"] },
 		{ "_id": "oc.m3.d3__ocMA.Kathisma21.melody", "ids": ["46"] },
 		{ "_id": "oc.m3.d3__ocMA.Kathisma21.text", "ids": ["47"] },
 		{ "_id": "oc.m3.d3__ocMA.Kathisma22.melody", "ids": ["49"] },
@@ -615,11 +614,10 @@
 		{ "_id": "oc.m3.d3__ocVE.Stichera5.text", "ids": ["14"] },
 		{ "_id": "oc.m3.d3__ocVE.Stichera6.text", "ids": ["17"] },
 		{ "_id": "oc.m3.d3__octrMA.Kathisma11.melody", "ids": ["424"] },
-		{ "_id": "oc.m3.d3__octrMA.Kathisma12.melody", "ids": ["428"] },
-		{ "_id": "oc.m3.d3__octrMA.Kathisma12.text", "ids": ["429"] },
-		{ "_id": "oc.m3.d3__octrMA.Kathisma12Verse.text", "ids": ["426"] },
-		{ "_id": "oc.m3.d3__octrMA.Kathisma1T.melody", "ids": ["431"] },
-		{ "_id": "oc.m3.d3__octrMA.Ode7Martyricon.melody", "ids": ["434"] }
+		{ "_id": "oc.m3.d3__octrMA.Kathisma12.melody", "ids": ["427"] },
+		{ "_id": "oc.m3.d3__octrMA.Kathisma12.text", "ids": ["428"] },
+		{ "_id": "oc.m3.d3__octrMA.Kathisma1T.melody", "ids": ["430"] },
+		{ "_id": "oc.m3.d3__octrMA.Ode7Martyricon.melody", "ids": ["433"] }
 	], 
 	"topics": ["he.a.m3", "he.h.m3", "misc", "oc.m3.d1", "oc.m3.d2", "oc.m3.d3"]
 }
