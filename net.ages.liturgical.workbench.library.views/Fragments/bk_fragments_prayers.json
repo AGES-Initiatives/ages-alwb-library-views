@@ -1,10 +1,10 @@
 {
 	"about": {
 		"template": "bk_fragments_prayers",
-		"dateGenerated": "2014/08/31 00:20:21",
+		"dateGenerated": "2014/09/20 18:32:25",
 		"logname": "null",
-		"templateKeyCount": "340",
-		"libraryKeyCount": "340",
+		"templateKeyCount": "342",
+		"libraryKeyCount": "342",
 		"redundantKeyCount": "0",
 		"compression": "0%"
 	}, 
@@ -343,12 +343,14 @@
 		{"_id": "T0332", "key": "prayers__verseP_Panteleimon.text"},
 		{"_id": "T0333", "key": "prayers__verse_Righteous.text"},
 		{"_id": "T0334", "key": "prayers__verseP_Righteous.text"},
-		{"_id": "T0335", "key": "prayers__verse_Theotokos.text"},
-		{"_id": "T0336", "key": "prayers__verseP_Theotokos.text"},
-		{"_id": "T0337", "key": "prayers__verse_Trinity.text"},
-		{"_id": "T0338", "key": "prayers__verseP_Trinity.text"},
-		{"_id": "T0339", "key": "prayers__verse_Unmercenaries.text"},
-		{"_id": "T0340", "key": "prayers__verseP_Unmercenaries.text"}
+		{"_id": "T0335", "key": "prayers__verse_SoulSaturday.text"},
+		{"_id": "T0336", "key": "prayers__verseP_SoulSaturday.text"},
+		{"_id": "T0337", "key": "prayers__verse_Theotokos.text"},
+		{"_id": "T0338", "key": "prayers__verseP_Theotokos.text"},
+		{"_id": "T0339", "key": "prayers__verse_Trinity.text"},
+		{"_id": "T0340", "key": "prayers__verseP_Trinity.text"},
+		{"_id": "T0341", "key": "prayers__verse_Unmercenaries.text"},
+		{"_id": "T0342", "key": "prayers__verseP_Unmercenaries.text"}
 	], 
 	"libraryKeys": [
 		{ "_id": "he.h.m6__TinTimioteran.text", "ids": ["62"] },
@@ -676,9 +678,10 @@
 		{ "_id": "prayers__verseP_Nicholas.text", "ids": ["329"] },
 		{ "_id": "prayers__verseP_Panteleimon.text", "ids": ["331"] },
 		{ "_id": "prayers__verseP_Righteous.text", "ids": ["333"] },
-		{ "_id": "prayers__verseP_Theotokos.text", "ids": ["335"] },
-		{ "_id": "prayers__verseP_Trinity.text", "ids": ["337"] },
-		{ "_id": "prayers__verseP_Unmercenaries.text", "ids": ["339"] },
+		{ "_id": "prayers__verseP_SoulSaturday.text", "ids": ["335"] },
+		{ "_id": "prayers__verseP_Theotokos.text", "ids": ["337"] },
+		{ "_id": "prayers__verseP_Trinity.text", "ids": ["339"] },
+		{ "_id": "prayers__verseP_Unmercenaries.text", "ids": ["341"] },
 		{ "_id": "prayers__verse_Angels.text", "ids": ["316"] },
 		{ "_id": "prayers__verse_ApostlesMartyrs.text", "ids": ["318"] },
 		{ "_id": "prayers__verse_Baptist.text", "ids": ["320"] },
@@ -688,9 +691,10 @@
 		{ "_id": "prayers__verse_Nicholas.text", "ids": ["328"] },
 		{ "_id": "prayers__verse_Panteleimon.text", "ids": ["330"] },
 		{ "_id": "prayers__verse_Righteous.text", "ids": ["332"] },
-		{ "_id": "prayers__verse_Theotokos.text", "ids": ["334"] },
-		{ "_id": "prayers__verse_Trinity.text", "ids": ["336"] },
-		{ "_id": "prayers__verse_Unmercenaries.text", "ids": ["338"] }
+		{ "_id": "prayers__verse_SoulSaturday.text", "ids": ["334"] },
+		{ "_id": "prayers__verse_Theotokos.text", "ids": ["336"] },
+		{ "_id": "prayers__verse_Trinity.text", "ids": ["338"] },
+		{ "_id": "prayers__verse_Unmercenaries.text", "ids": ["340"] }
 	], 
 	"topics": ["he.h.m6", "prayers"]
 }
