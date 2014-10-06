@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_oc_m1_d5",
-		"dateGenerated": "2014/09/13 11:27:33",
+		"dateGenerated": "2014/10/06 12:05:22",
 		"logname": "null",
 		"templateKeyCount": "405",
 		"libraryKeyCount": "154",
@@ -41,7 +41,7 @@
 		{"_id": "T0030", "key": "he.a.m1__PaneffimoiMartyres.text"},
 		{"_id": "T0031", "key": "misc__Mode1"},
 		{"_id": "T0032", "key": "he.a.m1__PaneffimoiMartyres.name"},
-		{"_id": "T0033", "key": "oc.m1.d5__ocVE.AposTheotokion.text"},
+		{"_id": "T0033", "key": "oc.m1.d3__ocMA.AposTheotokion.text"},
 		{"_id": "T0034", "key": "misc__Mode1"},
 		{"_id": "T0035", "key": "oc.m1.d5__ocVE.ApolTheotokionVM.melody"},
 		{"_id": "T0036", "key": "oc.m1.d5__ocMA.Kathisma13.text"},
@@ -463,6 +463,7 @@
 		{ "_id": "oc.m1.d2__octrMA.Triadic2.text", "ids": ["388"] },
 		{ "_id": "oc.m1.d2__octrMA.Triadic3.text", "ids": ["390"] },
 		{ "_id": "oc.m1.d3__ocMA.ApolTheotokion.text", "ids": ["366"] },
+		{ "_id": "oc.m1.d3__ocMA.AposTheotokion.text", "ids": ["32"] },
 		{ "_id": "oc.m1.d4__ocMA.Kathisma13.text", "ids": ["399"] },
 		{ "_id": "oc.m1.d5__ocLI.Beatitudes1.melody", "ids": ["368"] },
 		{ "_id": "oc.m1.d5__ocLI.Beatitudes2.melody", "ids": ["371"] },
@@ -557,7 +558,6 @@
 		{ "_id": "oc.m1.d5__ocMA.OdeW9C23.text", "ids": ["347"] },
 		{ "_id": "oc.m1.d5__ocMA.OdeW9C2T.text", "ids": ["351"] },
 		{ "_id": "oc.m1.d5__ocVE.ApolTheotokionVM.melody", "ids": ["34"] },
-		{ "_id": "oc.m1.d5__ocVE.AposTheotokion.text", "ids": ["32"] },
 		{ "_id": "oc.m1.d5__ocVE.Aposticha1.melody", "ids": ["22"] },
 		{ "_id": "oc.m1.d5__ocVE.Aposticha1.text", "ids": ["23", "354"] },
 		{ "_id": "oc.m1.d5__ocVE.Aposticha2.text", "ids": ["26", "357"] },
