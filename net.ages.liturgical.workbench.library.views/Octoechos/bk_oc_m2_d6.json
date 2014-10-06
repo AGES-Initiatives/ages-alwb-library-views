@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_oc_m2_d6",
-		"dateGenerated": "2014/09/13 11:25:26",
+		"dateGenerated": "2014/10/06 07:12:19",
 		"logname": "null",
 		"templateKeyCount": "443",
 		"libraryKeyCount": "174",
@@ -38,7 +38,7 @@
 		{"_id": "T0027", "key": "oc.m2.d4__ocVE.Aposticha2.text"},
 		{"_id": "T0028", "key": "misc__Mode2"},
 		{"_id": "T0029", "key": "oc.m2.d6__ocVE.Aposticha3.melody"},
-		{"_id": "T0030", "key": "oc.m2.d6__ocVE.Aposticha3.text"},
+		{"_id": "T0030", "key": "oc.m2.d2__ocVE.Aposticha3.text"},
 		{"_id": "T0031", "key": "misc__Mode2"},
 		{"_id": "T0032", "key": "he.a.m2__OteEkTouXylou.name"},
 		{"_id": "T0033", "key": "oc.m2.d4__ocVE.SticTheotokion.text"},
@@ -493,6 +493,7 @@
 		{ "_id": "oc.m2.d1__ocLI.Beatitudes1.text", "ids": ["407"] },
 		{ "_id": "oc.m2.d1__ocMA.Kathisma13.text", "ids": ["35", "53", "437"] },
 		{ "_id": "oc.m2.d2__ocMA.Kathisma23.text", "ids": ["404"] },
+		{ "_id": "oc.m2.d2__ocVE.Aposticha3.text", "ids": ["29"] },
 		{ "_id": "oc.m2.d2__octrMA.Photagogic.text", "ids": ["442"] },
 		{ "_id": "oc.m2.d2__octrMA.Triadic1.text", "ids": ["424"] },
 		{ "_id": "oc.m2.d2__octrMA.Triadic2.text", "ids": ["426"] },
@@ -616,7 +617,6 @@
 		{ "_id": "oc.m2.d6__ocVE.Aposticha1.melody", "ids": ["22"] },
 		{ "_id": "oc.m2.d6__ocVE.Aposticha2.melody", "ids": ["25"] },
 		{ "_id": "oc.m2.d6__ocVE.Aposticha3.melody", "ids": ["28"] },
-		{ "_id": "oc.m2.d6__ocVE.Aposticha3.text", "ids": ["29"] },
 		{ "_id": "oc.m2.d6__ocVE.SticTheotokion.text", "ids": ["20"] },
 		{ "_id": "oc.m2.d6__ocVE.Stichera3.text", "ids": ["8"] },
 		{ "_id": "oc.m2.d6__ocVE.Stichera4.text", "ids": ["11"] },
