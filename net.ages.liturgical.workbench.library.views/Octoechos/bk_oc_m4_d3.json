@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_oc_m4_d3",
-		"dateGenerated": "2014/09/13 11:32:55",
+		"dateGenerated": "2014/10/08 11:20:49",
 		"logname": "null",
 		"templateKeyCount": "446",
 		"libraryKeyCount": "175",
@@ -452,7 +452,7 @@
 		{"_id": "T0441", "key": "oc.m4.d2__ocMA.Kathisma23.text"},
 		{"_id": "T0442", "key": "misc__Mode4"},
 		{"_id": "T0443", "key": "oc.m4.d3__octrMA.Ode7Martyricon.melody"},
-		{"_id": "T0444", "key": "oc.m4.d4__ocMA.Kathisma32.text"},
+		{"_id": "T0444", "key": "pe.d127__peVE.Apolytikion2.text"},
 		{"_id": "T0445", "key": "misc__Mode4"},
 		{"_id": "T0446", "key": "oc.m4.d2__octrMA.Photagogic.text"}
 	], 
@@ -631,7 +631,7 @@
 		{ "_id": "oc.m4.d3__ocVE.Stichera6.text", "ids": ["17"] },
 		{ "_id": "oc.m4.d3__octrMA.Kathisma1T.melody", "ids": ["439"] },
 		{ "_id": "oc.m4.d3__octrMA.Ode7Martyricon.melody", "ids": ["442"] },
-		{ "_id": "oc.m4.d4__ocMA.Kathisma32.text", "ids": ["443"] }
+		{ "_id": "pe.d127__peVE.Apolytikion2.text", "ids": ["443"] }
 	], 
-	"topics": ["he.a.m4", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "oc.m4.d4"]
+	"topics": ["he.a.m4", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "pe.d127"]
 }
