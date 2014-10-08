@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_oc_m4_d4",
-		"dateGenerated": "2014/09/13 11:32:39",
+		"dateGenerated": "2014/10/08 10:47:38",
 		"logname": "null",
 		"templateKeyCount": "406",
 		"libraryKeyCount": "152",
@@ -68,7 +68,7 @@
 		{"_id": "T0057", "key": "oc.m4.d4__ocMA.Kathisma31.text"},
 		{"_id": "T0058", "key": "misc__Mode4"},
 		{"_id": "T0059", "key": "oc.m4.d4__ocMA.Kathisma32.melody"},
-		{"_id": "T0060", "key": "oc.m4.d4__ocMA.Kathisma32.text"},
+		{"_id": "T0060", "key": "pe.d127__peVE.Apolytikion2.text"},
 		{"_id": "T0061", "key": "misc__Mode4"},
 		{"_id": "T0062", "key": "he.a.m4__OYpsotheisEnToStavro.name"},
 		{"_id": "T0063", "key": "oc.m4.d4__ocMA.Kathisma33.text"},
@@ -487,7 +487,6 @@
 		{ "_id": "oc.m4.d4__ocMA.Kathisma23.text", "ids": ["53"] },
 		{ "_id": "oc.m4.d4__ocMA.Kathisma31.text", "ids": ["56"] },
 		{ "_id": "oc.m4.d4__ocMA.Kathisma32.melody", "ids": ["58"] },
-		{ "_id": "oc.m4.d4__ocMA.Kathisma32.text", "ids": ["59"] },
 		{ "_id": "oc.m4.d4__ocMA.Kathisma33.text", "ids": ["62"] },
 		{ "_id": "oc.m4.d4__ocMA.OdeW1C11.text", "ids": ["72"] },
 		{ "_id": "oc.m4.d4__ocMA.OdeW1C12.text", "ids": ["76"] },
@@ -568,7 +567,8 @@
 		{ "_id": "oc.m4.d4__ocVE.Stichera5.text", "ids": ["14"] },
 		{ "_id": "oc.m4.d4__ocVE.Stichera6.text", "ids": ["17"] },
 		{ "_id": "oc.m4.d4__octrMA.Kathisma11.melody", "ids": ["393"] },
-		{ "_id": "oc.m4.d6__ocMA.Kathisma23.text", "ids": ["35", "400"] }
+		{ "_id": "oc.m4.d6__ocMA.Kathisma23.text", "ids": ["35", "400"] },
+		{ "_id": "pe.d127__peVE.Apolytikion2.text", "ids": ["59"] }
 	], 
-	"topics": ["he.a.m4", "he.ga", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "oc.m4.d4", "oc.m4.d6"]
+	"topics": ["he.a.m4", "he.ga", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "oc.m4.d4", "oc.m4.d6", "pe.d127"]
 }
