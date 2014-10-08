@@ -1,7 +1,7 @@
 {
 	"about": {
 		"template": "bk_oc_m4_d7",
-		"dateGenerated": "2014/09/13 11:31:15",
+		"dateGenerated": "2014/10/08 11:21:16",
 		"logname": "null",
 		"templateKeyCount": "509",
 		"libraryKeyCount": "188",
@@ -52,10 +52,10 @@
 		{"_id": "T0041", "key": "prayers__Allilouia3.text"},
 		{"_id": "T0042", "key": "misc__Mode4"},
 		{"_id": "T0043", "key": "he.a.m4__TachyProkatalave.name"},
-		{"_id": "T0044", "key": "oc.m4.d7__ocMA.Kathisma11.text"},
+		{"_id": "T0044", "key": "oc.m4.d3__ocMA.Kathisma32.text"},
 		{"_id": "T0045", "key": "misc__Mode4"},
 		{"_id": "T0046", "key": "oc.m4.d7__ocMA.Kathisma12.melody"},
-		{"_id": "T0047", "key": "oc.m4.d4__ocMA.Kathisma32.text"},
+		{"_id": "T0047", "key": "pe.d127__peVE.Apolytikion2.text"},
 		{"_id": "T0048", "key": "misc__Mode4"},
 		{"_id": "T0049", "key": "he.a.m4__TachyProkatalave.name"},
 		{"_id": "T0050", "key": "he.ga__OiMartyresSouKyrie.text"},
@@ -473,10 +473,10 @@
 		{"_id": "T0462", "key": "he.ga__OiMartyresSouKyrie.text"},
 		{"_id": "T0463", "key": "misc__Mode4"},
 		{"_id": "T0464", "key": "oc.m4.d7__octrMA.Kathisma12.melody"},
-		{"_id": "T0465", "key": "oc.m4.d4__ocMA.Kathisma32.text"},
+		{"_id": "T0465", "key": "pe.d127__peVE.Apolytikion2.text"},
 		{"_id": "T0466", "key": "misc__Mode4"},
 		{"_id": "T0467", "key": "he.a.m4__TachyProkatalave.name"},
-		{"_id": "T0468", "key": "oc.m4.d7__ocMA.Kathisma11.text"},
+		{"_id": "T0468", "key": "oc.m4.d3__ocMA.Kathisma32.text"},
 		{"_id": "T0469", "key": "misc__Mode4"},
 		{"_id": "T0470", "key": "he.a.m4__TachyProkatalave.name"},
 		{"_id": "T0471", "key": "oc.m4.d7__ocMA.Kathisma22.text"},
@@ -565,9 +565,9 @@
 		{ "_id": "oc.m4.d2__octrMA.Photagogic.text", "ids": ["475"] },
 		{ "_id": "oc.m4.d3__ocMA.Aposticha3.text", "ids": ["389", "481"] },
 		{ "_id": "oc.m4.d3__ocMA.Kathisma23.text", "ids": ["422"] },
+		{ "_id": "oc.m4.d3__ocMA.Kathisma32.text", "ids": ["43", "467"] },
 		{ "_id": "oc.m4.d3__ocVE.Aposticha3.text", "ids": ["23", "446"] },
 		{ "_id": "oc.m4.d4__ocMA.Aposticha3.text", "ids": ["392", "484"] },
-		{ "_id": "oc.m4.d4__ocMA.Kathisma32.text", "ids": ["46", "464"] },
 		{ "_id": "oc.m4.d4__ocVE.Aposticha3.text", "ids": ["26", "449"] },
 		{ "_id": "oc.m4.d5__ocMA.AposTheotokion.text", "ids": ["404"] },
 		{ "_id": "oc.m4.d5__ocMA.Aposticha3.text", "ids": ["395", "487"] },
@@ -591,7 +591,6 @@
 		{ "_id": "oc.m4.d7__ocMA.Aposticha4.text", "ids": ["416", "505"] },
 		{ "_id": "oc.m4.d7__ocMA.C1Acrostic.text", "ids": ["65"] },
 		{ "_id": "oc.m4.d7__ocMA.C2Acrostic.text", "ids": ["66"] },
-		{ "_id": "oc.m4.d7__ocMA.Kathisma11.text", "ids": ["43", "467"] },
 		{ "_id": "oc.m4.d7__ocMA.Kathisma12.melody", "ids": ["45"] },
 		{ "_id": "oc.m4.d7__ocMA.Kathisma14.melody", "ids": ["51"] },
 		{ "_id": "oc.m4.d7__ocMA.Kathisma21.melody", "ids": ["54"] },
@@ -707,7 +706,8 @@
 		{ "_id": "oc.m4.d7__octrVE.Stichera2.melody", "ids": ["445"] },
 		{ "_id": "oc.m4.d7__octrVE.Stichera3.melody", "ids": ["448"] },
 		{ "_id": "oc.m4.d7__octrVE.Stichera4.melody", "ids": ["451"] },
+		{ "_id": "pe.d127__peVE.Apolytikion2.text", "ids": ["46", "464"] },
 		{ "_id": "prayers__Allilouia3.text", "ids": ["40"] }
 	], 
-	"topics": ["he.a.m4", "he.ga", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "oc.m4.d4", "oc.m4.d5", "oc.m4.d7", "prayers"]
+	"topics": ["he.a.m4", "he.ga", "he.h.m4", "misc", "oc.m4.d1", "oc.m4.d2", "oc.m4.d3", "oc.m4.d4", "oc.m4.d5", "oc.m4.d7", "pe.d127", "prayers"]
 }
