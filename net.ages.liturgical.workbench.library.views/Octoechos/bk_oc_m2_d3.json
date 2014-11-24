@@ -64,7 +64,7 @@
 		{"_id": "T0053", "key": "oc.m2.d3__ocMA.Kathisma23.melody"},
 		{"_id": "T0054", "key": "oc.m2.d3__ocMA.Kathisma23.text"},
 		{"_id": "T0055", "key": "misc__Mode2"},
-		{"_id": "T0056", "key": "he.a.m2__EfsplgchniasYparchousa.name"},
+		{"_id": "T0056", "key": "he.a.m2__EfsplagchniasYparchousa.name"},
 		{"_id": "T0057", "key": "oc.m2.d3__ocMA.Kathisma31.text"},
 		{"_id": "T0058", "key": "misc__Mode2"},
 		{"_id": "T0059", "key": "oc.m2.d3__ocMA.Kathisma32.melody"},
@@ -465,7 +465,7 @@
 		{"_id": "T0454", "key": "oc.m2.d2__octrMA.Photagogic.text"}
 	], 
 	"libraryKeys": [
-		{ "_id": "he.a.m2__EfsplgchniasYparchousa.name", "ids": ["55"] },
+		{ "_id": "he.a.m2__EfsplagchniasYparchousa.name", "ids": ["55"] },
 		{ "_id": "he.a.m2__OteEkTouXylou.name", "ids": ["1", "4", "7", "10", "13", "16", "19"] },
 		{ "_id": "he.h.m2__AnarchouGennitoros.name", "ids": ["383", "387", "391", "395", "399"] },
 		{ "_id": "he.h.m2__AntitheonProstagma.name", "ids": ["299", "303", "307", "311"] },
