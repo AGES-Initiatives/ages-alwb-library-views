@@ -55,10 +55,10 @@
 		{"_id": "T0044", "key": "oc.m2.d5__ocMA.Kathisma13.melody"},
 		{"_id": "T0045", "key": "oc.m2.d5__ocMA.Kathisma13.text"},
 		{"_id": "T0046", "key": "misc__Mode2"},
-		{"_id": "T0047", "key": "he.a.m2__EfsplgchniasYparchousa.name"},
+		{"_id": "T0047", "key": "he.a.m2__EfsplagchniasYparchousa.name"},
 		{"_id": "T0048", "key": "oc.m2.d5__ocMA.Kathisma21.text"},
 		{"_id": "T0049", "key": "misc__Mode2"},
-		{"_id": "T0050", "key": "he.a.m2__EfsplgchniasYparchousa.name"},
+		{"_id": "T0050", "key": "he.a.m2__EfsplagchniasYparchousa.name"},
 		{"_id": "T0051", "key": "oc.m2.d5__ocMA.Kathisma22.text"},
 		{"_id": "T0052", "key": "misc__Mode2"},
 		{"_id": "T0053", "key": "oc.m2.d5__ocMA.Kathisma23.melody"},
@@ -388,7 +388,7 @@
 		{"_id": "T0377", "key": "oc.m2.d2__octrMA.Photagogic.text"}
 	], 
 	"libraryKeys": [
-		{ "_id": "he.a.m2__EfsplgchniasYparchousa.name", "ids": ["46", "49"] },
+		{ "_id": "he.a.m2__EfsplagchniasYparchousa.name", "ids": ["46", "49"] },
 		{ "_id": "he.a.m2__OteEkTouXylou.name", "ids": ["1", "4", "7", "10", "13", "16", "19", "31", "334"] },
 		{ "_id": "he.a.m2__ToisTonAimatonSou.name", "ids": ["55"] },
 		{ "_id": "he.h.m2__AnarchouGennitoros.name", "ids": ["298", "302", "306", "310", "314", "318", "322"] },

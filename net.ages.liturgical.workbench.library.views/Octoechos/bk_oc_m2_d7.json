@@ -66,7 +66,7 @@
 		{"_id": "T0055", "key": "oc.m2.d7__ocMA.Kathisma21.melody"},
 		{"_id": "T0056", "key": "oc.m2.d2__ocMA.Kathisma32.text"},
 		{"_id": "T0057", "key": "misc__Mode2"},
-		{"_id": "T0058", "key": "he.a.m2__EfsplgchniasYparchousa.name"},
+		{"_id": "T0058", "key": "he.a.m2__EfsplagchniasYparchousa.name"},
 		{"_id": "T0059", "key": "oc.m2.d7__ocMA.Kathisma22.text"},
 		{"_id": "T0060", "key": "misc__Mode2"},
 		{"_id": "T0061", "key": "oc.m2.d7__ocMA.Kathisma23.melody"},
@@ -511,7 +511,7 @@
 		{"_id": "T0500", "key": "oc.m2.d7__octrMA.AposTheotokion.text"}
 	], 
 	"libraryKeys": [
-		{ "_id": "he.a.m2__EfsplgchniasYparchousa.name", "ids": ["57"] },
+		{ "_id": "he.a.m2__EfsplagchniasYparchousa.name", "ids": ["57"] },
 		{ "_id": "he.a.m2__OteEkTouXylou.name", "ids": ["1", "4", "7", "10", "13", "16", "393", "396", "399", "402", "405", "408", "486", "489", "492", "495", "498"] },
 		{ "_id": "he.h.m2__AntitheonProstagma.name", "ids": ["290", "294", "298", "302"] },
 		{ "_id": "he.h.m2__EnAvyssoPtaismaton.name", "ids": ["258", "262", "266"] },
