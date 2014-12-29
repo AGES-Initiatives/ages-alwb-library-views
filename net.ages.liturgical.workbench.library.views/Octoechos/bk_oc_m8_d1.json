@@ -1,11 +1,11 @@
 {
 	"about": {
 		"template": "bk_oc_m8_d1",
-		"dateGenerated": "2014/09/13 10:59:28",
+		"dateGenerated": "2014/12/29 15:38:32",
 		"logname": "null",
 		"templateKeyCount": "628",
-		"libraryKeyCount": "260",
-		"redundantKeyCount": "368",
+		"libraryKeyCount": "261",
+		"redundantKeyCount": "367",
 		"compression": "58%"
 	}, 
 	"templateKeys": [
@@ -590,7 +590,7 @@
 		{"_id": "T0579", "key": "misc__Automelon"},
 		{"_id": "T0580", "key": "he.a.m8__KyrieEiKaiKritirio.text"},
 		{"_id": "T0581", "key": "misc__Mode8"},
-		{"_id": "T0582", "key": "he.a.m8__KyrieEiKaiKritirio.text"},
+		{"_id": "T0582", "key": "he.a.m8__KyrieEiKaiKritirio.name"},
 		{"_id": "T0583", "key": "oc.m8.d1__ocMA.Lauds2.text"},
 		{"_id": "T0584", "key": "misc__Mode8"},
 		{"_id": "T0585", "key": "oc.m8.d1__ocMA.Lauds3.melody"},
@@ -640,7 +640,8 @@
 	], 
 	"libraryKeys": [
 		{ "_id": "he.a.m8__AnestisEkNekron.text", "ids": ["196"] },
-		{ "_id": "he.a.m8__KyrieEiKaiKritirio.text", "ids": ["579", "581"] },
+		{ "_id": "he.a.m8__KyrieEiKaiKritirio.name", "ids": ["581"] },
+		{ "_id": "he.a.m8__KyrieEiKaiKritirio.text", "ids": ["579"] },
 		{ "_id": "he.a.m8__OAngelosSouKyrie.text", "ids": ["588"] },
 		{ "_id": "he.a.m8__OTouParadoxou.name", "ids": ["4", "7", "10"] },
 		{ "_id": "he.a.m8__TinSofianKaiLogon.name", "ids": ["198", "201"] },
