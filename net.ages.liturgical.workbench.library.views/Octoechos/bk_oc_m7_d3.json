@@ -1,11 +1,11 @@
 {
 	"about": {
 		"template": "bk_oc_m7_d3",
-		"dateGenerated": "2014/09/13 10:38:06",
+		"dateGenerated": "2014/12/29 16:41:22",
 		"logname": "null",
 		"templateKeyCount": "450",
-		"libraryKeyCount": "179",
-		"redundantKeyCount": "271",
+		"libraryKeyCount": "178",
+		"redundantKeyCount": "272",
 		"compression": "60%"
 	}, 
 	"templateKeys": [
@@ -450,13 +450,13 @@
 		{"_id": "T0439", "key": "oc.m7.d3__octrMA.Kathisma11.text"},
 		{"_id": "T0440", "key": "misc__Mode7"},
 		{"_id": "T0441", "key": "oc.m7.d3__octrMA.Kathisma12.melody"},
-		{"_id": "T0442", "key": "oc.m7.d3__octrMA.Kathisma12.text"},
+		{"_id": "T0442", "key": "oc.m7.d2__ocMA.Kathisma21.text"},
 		{"_id": "T0443", "key": "misc__Mode7"},
 		{"_id": "T0444", "key": "oc.m7.d3__octrMA.Kathisma1T.melody"},
-		{"_id": "T0445", "key": "oc.m7.d3__octrMA.Kathisma1T.text"},
+		{"_id": "T0445", "key": "oc.m7.d2__ocMA.Kathisma33.text"},
 		{"_id": "T0446", "key": "misc__Mode7"},
 		{"_id": "T0447", "key": "oc.m7.d3__octrMA.Ode7Martyricon.melody"},
-		{"_id": "T0448", "key": "oc.m7.d3__octrMA.Ode7Martyricon.text"},
+		{"_id": "T0448", "key": "oc.m7.d4__ocMA.Kathisma32.text"},
 		{"_id": "T0449", "key": "misc__Mode7"},
 		{"_id": "T0450", "key": "oc.m7.d2__octrMA.Photagogic.text"}
 	], 
@@ -504,8 +504,9 @@
 		{ "_id": "oc.m7.d2__ocMA.Aposticha2.text", "ids": ["402"] },
 		{ "_id": "oc.m7.d2__ocMA.Kathisma11.text", "ids": ["38"] },
 		{ "_id": "oc.m7.d2__ocMA.Kathisma12.text", "ids": ["41"] },
-		{ "_id": "oc.m7.d2__ocMA.Kathisma21.text", "ids": ["47"] },
+		{ "_id": "oc.m7.d2__ocMA.Kathisma21.text", "ids": ["47", "441"] },
 		{ "_id": "oc.m7.d2__ocMA.Kathisma22.text", "ids": ["50"] },
+		{ "_id": "oc.m7.d2__ocMA.Kathisma33.text", "ids": ["444"] },
 		{ "_id": "oc.m7.d2__ocVE.Aposticha1.text", "ids": ["23"] },
 		{ "_id": "oc.m7.d2__ocVE.Aposticha2.text", "ids": ["26"] },
 		{ "_id": "oc.m7.d2__octrMA.Photagogic.text", "ids": ["449"] },
@@ -635,11 +636,9 @@
 		{ "_id": "oc.m7.d3__octrMA.Kathisma11.melody", "ids": ["437"] },
 		{ "_id": "oc.m7.d3__octrMA.Kathisma11.text", "ids": ["438"] },
 		{ "_id": "oc.m7.d3__octrMA.Kathisma12.melody", "ids": ["440"] },
-		{ "_id": "oc.m7.d3__octrMA.Kathisma12.text", "ids": ["441"] },
 		{ "_id": "oc.m7.d3__octrMA.Kathisma1T.melody", "ids": ["443"] },
-		{ "_id": "oc.m7.d3__octrMA.Kathisma1T.text", "ids": ["444"] },
 		{ "_id": "oc.m7.d3__octrMA.Ode7Martyricon.melody", "ids": ["446"] },
-		{ "_id": "oc.m7.d3__octrMA.Ode7Martyricon.text", "ids": ["447"] }
+		{ "_id": "oc.m7.d4__ocMA.Kathisma32.text", "ids": ["447"] }
 	], 
-	"topics": ["he.a.m7", "he.h.m7", "misc", "oc.m7.d1", "oc.m7.d2", "oc.m7.d3"]
+	"topics": ["he.a.m7", "he.h.m7", "misc", "oc.m7.d1", "oc.m7.d2", "oc.m7.d3", "oc.m7.d4"]
 }
