@@ -1,11 +1,11 @@
 {
 	"about": {
 		"template": "bk_oc_m8_d5",
-		"dateGenerated": "2014/09/13 11:16:09",
+		"dateGenerated": "2014/12/29 16:44:11",
 		"logname": "null",
 		"templateKeyCount": "403",
-		"libraryKeyCount": "153",
-		"redundantKeyCount": "250",
+		"libraryKeyCount": "152",
+		"redundantKeyCount": "251",
 		"compression": "62%"
 	}, 
 	"templateKeys": [
@@ -153,7 +153,7 @@
 		{"_id": "T0142", "key": "he.h.m8__EisakikoaKyrie.text"},
 		{"_id": "T0143", "key": "misc__Mode8"},
 		{"_id": "T0144", "key": "misc__Ode4"},
-		{"_id": "T0145", "key": "he.h.m8__EisakikoaKyrie.text"},
+		{"_id": "T0145", "key": "he.h.m8__EisakikoaKyrie.name"},
 		{"_id": "T0146", "key": "oc.m8.d5__ocMA.OdeW4C11.text"},
 		{"_id": "T0147", "key": "misc__Mode8"},
 		{"_id": "T0148", "key": "misc__Ode4"},
@@ -400,9 +400,9 @@
 		{"_id": "T0389", "key": "oc.m8.d2__octrMA.Triadic3.text"},
 		{"_id": "T0390", "key": "misc__Mode8"},
 		{"_id": "T0391", "key": "oc.m8.d5__octrMA.Kathisma11.melody"},
-		{"_id": "T0392", "key": "oc.m8.d5__octrMA.Kathisma11.text"},
+		{"_id": "T0392", "key": "pe.d120__peVE.Apolytikion1.text"},
 		{"_id": "T0393", "key": "misc__Mode8"},
-		{"_id": "T0394", "key": "oc.m8.d5__octrMA.Kathisma12.melody"},
+		{"_id": "T0394", "key": "he.a.m8__TinSofianKaiLogon.name"},
 		{"_id": "T0395", "key": "oc.m8.d5__octrMA.Kathisma12.text"},
 		{"_id": "T0396", "key": "misc__Mode8"},
 		{"_id": "T0397", "key": "oc.m8.d5__octrMA.Kathisma1T.melody"},
@@ -417,10 +417,10 @@
 		{ "_id": "he.a.m8__AnestisEkNekron.name", "ids": ["52"] },
 		{ "_id": "he.a.m8__KyrieEiKaiKritirio.name", "ids": ["1", "4", "7", "10", "13", "16", "19", "22", "25", "351", "354"] },
 		{ "_id": "he.a.m8__TiYmasKalesomen.name", "ids": ["31"] },
-		{ "_id": "he.a.m8__TinSofianKaiLogon.name", "ids": ["37", "40", "43", "55", "58"] },
+		{ "_id": "he.a.m8__TinSofianKaiLogon.name", "ids": ["37", "40", "43", "55", "58", "393"] },
 		{ "_id": "he.a.m8__ToProstachthen.name", "ids": ["46", "49"] },
-		{ "_id": "he.h.m8__EisakikoaKyrie.name", "ids": ["148", "152", "156", "160", "164", "168", "172"] },
-		{ "_id": "he.h.m8__EisakikoaKyrie.text", "ids": ["141", "144"] },
+		{ "_id": "he.h.m8__EisakikoaKyrie.name", "ids": ["144", "148", "152", "156", "160", "164", "168", "172"] },
+		{ "_id": "he.h.m8__EisakikoaKyrie.text", "ids": ["141"] },
 		{ "_id": "he.h.m8__EptaplasiosKaminon.name", "ids": ["288", "292", "296"] },
 		{ "_id": "he.h.m8__EptaplasiosKaminon.text", "ids": ["285"] },
 		{ "_id": "he.h.m8__ExestiEpiTouto.name", "ids": ["320", "324", "328", "332"] },
@@ -559,14 +559,13 @@
 		{ "_id": "oc.m8.d5__ocVE.Stichera5.text", "ids": ["14"] },
 		{ "_id": "oc.m8.d5__ocVE.Stichera6.text", "ids": ["17"] },
 		{ "_id": "oc.m8.d5__octrMA.Kathisma11.melody", "ids": ["390"] },
-		{ "_id": "oc.m8.d5__octrMA.Kathisma11.text", "ids": ["391"] },
-		{ "_id": "oc.m8.d5__octrMA.Kathisma12.melody", "ids": ["393"] },
 		{ "_id": "oc.m8.d5__octrMA.Kathisma12.text", "ids": ["394"] },
 		{ "_id": "oc.m8.d5__octrMA.Kathisma1T.melody", "ids": ["396"] },
 		{ "_id": "oc.m8.d5__octrMA.Kathisma1T.text", "ids": ["397"] },
 		{ "_id": "oc.m8.d5__octrMA.Ode7Martyricon.melody", "ids": ["399"] },
 		{ "_id": "oc.m8.d5__octrMA.Ode7Martyricon.text", "ids": ["400"] },
+		{ "_id": "pe.d120__peVE.Apolytikion1.text", "ids": ["391"] },
 		{ "_id": "poets__Iosif", "ids": ["64"] }
 	], 
-	"topics": ["he.a.m8", "he.h.m8", "misc", "oc.m8.d1", "oc.m8.d2", "oc.m8.d3", "oc.m8.d5", "poets"]
+	"topics": ["he.a.m8", "he.h.m8", "misc", "oc.m8.d1", "oc.m8.d2", "oc.m8.d3", "oc.m8.d5", "pe.d120", "poets"]
 }
