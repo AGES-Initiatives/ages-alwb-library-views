@@ -1,0 +1,1 @@
+This project contains files to use in conjunction with the ALWB-TMS (Translation Management System).  These files provide a "view" into the ALWB library (ares) files.  Usually, these are created from a template, and list the keys that are used by the template.
